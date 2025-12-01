@@ -1,16 +1,12 @@
 
 # WPE & TME Semantic Calculus Languages
 
-<p align="center">
-  <img src="assets/wpe-overview.png" alt="WPE/TME Overview" width="700"/>
-</p>
-
 <h3 align="center">Text-Native Languages for Structural and Temporal Reasoning</h3>
 
 <p align="center">
-  <a href="https://researchgate.net/publication/[id]"><img src="https://img.shields.io/badge/Paper-ResearchGate-00CCBB?style=for-the-badge" alt="Paper"/></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License"/></a>
-  <a href="https://github.com/[user]/wpe-tme-language/stargazers"><img src="https://img.shields.io/github/stars/[user]/wpe-tme-language?style=for-the-badge" alt="Stars"/></a>
+  <a href="https://doi.org/10.13140/RG.2.2.28299.55844"><img src="https://img.shields.io/badge/Paper-ResearchGate-00CCBB?style=for-the-badge" alt="Paper"/></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache 2.0-blue?style=for-the-badge" alt="License"/></a>
+  <a href="https://github.com/Heimdall-Organization/wpe-tme-language/stargazers"><img src="https://img.shields.io/github/stars/Heimdall-Organization/wpe-tme-language?style=for-the-badge" alt="Stars"/></a>
 </p>
 
 <p align="center">
@@ -448,33 +444,14 @@ Customers <-> Workers    # cos(45°) = 0.707 (direct interaction)
 
 ### Language Specification
 
-- 📘 [WPE Core Specification](specification/wpe-core.md) - Formal syntax, semantics, type system
-- 📙 [TME Core Specification](specification/tme-core.md) - Temporal encoding rules
-- 📗 [Syntax Reference](specification/syntax-reference.md) - Complete syntax guide
-- 📕 [Formal Semantics](specification/formal-semantics.md) - Mathematical foundations
-- 📔 [Operators Reference](specification/operators.md) - All operators and their meanings
+- 📘 [WPE Core Specification](https://github.com/Heimdall-Organization/wpe-tme-language/blob/main/WPE_FORMAL_v5.0.md) - Formal syntax, semantics, type system
+- 📙 [TME Core Specification](https://github.com/Heimdall-Organization/wpe-tme-language/blob/main/TME_FORMAL_v1.0.md) - Temporal encoding rules
+- 📔 [Quick Reference Guide](https://github.com/Heimdall-Organization/wpe-tme-language/blob/main/WPE_TME_QUICK_REFERENCE.md) - Reference Doc
 
-### Tutorials
+### Book
 
-- 🎓 [Language Guide](docs/language-guide.md) - Comprehensive introduction
-- 🚀 [Quick Start Tutorial](docs/tutorial.md) - Learn by doing
-- 🎯 [Encoding Patterns](docs/encoding-patterns.md) - Common structures
-- 🔬 [Advanced Techniques](docs/advanced.md) - Complex systems
-
-### Examples
-
-- 💡 [Example Library](docs/examples.md) - 20+ annotated examples
-- 🤖 [LLM Integration](docs/llm-integration.md) - Using with language models
-- 🌐 [System Modeling](docs/system-modeling.md) - Complex systems
-- ⏱️ [Temporal Reasoning](docs/temporal-reasoning.md) - Time and sequences
-
-### Implementation
-
-- 🐍 [Python Reference](reference-implementation/python/README.md) - Parser, evaluator, visualizer
-- 📚 [API Documentation](docs/api-reference.md) - Python API
-- 🔧 [Extending WPE/TME](docs/extending.md) - Add custom domains
-- 🧪 [Testing Guide](docs/testing.md) - Validation and verification
-
+- 📘 [WPE/TME Book](https://github.com/Heimdall-Organization/wpe-tme-language/blob/main/wpe_tme_book.md) - The Complete Book on Semantic Calculus 
+  
 ---
 
 ## Python Reference Implementation
@@ -580,8 +557,8 @@ A: Yes! Define any single-letter or two-letter domain code. E.g., `Ch` for chemi
 
 **Abstract:** We present WPE (Whole-Process Encoding) and TME (Temporal-Mode Encoding), two complementary languages for encoding structural and temporal semantics explicitly. Both use 4-parameter geometric representations where coupling strengths emerge from phase relationships via cosine rules, hierarchical influences follow from shell levels, and temporal ordering is syntactic. The languages are text-native (pure ASCII), model-agnostic (no fine-tuning required), and compositional (complex systems from simple primitives). We demonstrate applications to LLM scaffolding, multi-agent systems, temporal logic, and system modeling.
 
-**[Read on ResearchGate →](https://researchgate.net/publication/[id])**  
-**[Download PDF →](papers/wpe_tme_paper.pdf)**
+**[Read on ResearchGate →](https://doi.org/10.13140/RG.2.2.28299.55844)**  
+**[Download PDF →](https://github.com/Heimdall-Organization/wpe-tme-language/blob/main/WPE_TME_Semantic_Calculus__A_Geometric_Framework_for_Structural_and_Temporal_Reasoning_in_AI_Systems%20(1).pdf)**
 
 ---
 
@@ -602,7 +579,7 @@ A: Yes! Define any single-letter or two-letter domain code. E.g., `Ch` for chemi
 
 ## Contributing
 
-We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for:
+We welcome contributions! 
 - Adding examples to the library
 - Implementing in other languages
 - Improving documentation
@@ -620,23 +597,22 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for:
 
 ## Community
 
-- 💬 [GitHub Discussions](https://github.com/[user]/wpe-tme-language/discussions) - Questions and ideas
-- 🐛 [Issues](https://github.com/[user]/wpe-tme-language/issues) - Bug reports and feature requests
-- 📣 [Twitter](https://twitter.com/[user]) - Updates and announcements
-- 📧 [Email](mailto:[your-email]) - Research collaborations
+- 💬 [GitHub Discussions](https://github.com/Heimdall-Organization/wpe-tme-language/discussions/1) - Questions and ideas
+- 🐛 [Issues](https://github.com/Heimdall-Organization/wpe-tme-language/issues) - Bug reports and feature requests
+- 📧 [Email](mailto:[theheimdallorganization@gmail.com) - Direct Contact
 
 ---
 
 ## Related Projects
 
-- [Crystalline Language](https://github.com/[user]/crystalline-language) - Code synthesis using same geometric foundation
-- [BioGenerative Crystal](https://github.com/[user]/biogenerative-crystal) - Biological modeling with WPE/TME
+- [Crystalline Language](https://github.com/Heimdall-Organization/crystalline-language) - Code synthesis using same geometric foundation
+- [BioGenerative Crystal](https://github.com/Heimdall-Organization/biogenerative-architecture) - Biological modeling with WPE/TME
 
 ---
 
 ## License
 
-MIT License - see [LICENSE](LICENSE)
+Apache 2.0 License - see [LICENSE](LICENSE)
 
 ---
 
@@ -644,11 +620,6 @@ MIT License - see [LICENSE](LICENSE)
   <strong>Make structure explicit. Make reasoning visible.</strong>
 </p>
 
-<p align="center">
-  <a href="specification/wpe-core.md">Read Specification →</a> •
-  <a href="docs/tutorial.md">Start Tutorial →</a> •
-  <a href="examples/">Browse Examples →</a>
-</p>
 
 <p align="center">
   ⭐ Star this repo if you're interested in explicit reasoning structures!

@@ -1,5 +1,7 @@
 
-  ◇    D ' H A W K - L A B S   ◇         
+  <h3 align="center">◇    D ' H A W K - L A B S   ◇</h3>         
+
+---
 
 
 <h3 align="center">WPE & TME Semantic Calculus Languages</h3>

@@ -22,7 +22,7 @@
 
 ## What Are WPE & TME?
 
-**WPE (Whole-Process Encoding)** and **TME (Temporal-Mode Encoding)** are two complementary languages for encoding semantic structure and temporal relationships explicitly.
+**WPE (Wave Pattern Encoding)** and **TME (Temporal Modulation Encoding)** are two complementary languages for encoding semantic structure and temporal relationships explicitly.
 
 Think of them as **mathematical notation for systems** instead of for equations.
 
@@ -560,27 +560,13 @@ A: Yes! Define any single-letter or two-letter domain code. E.g., `Ch` for chemi
 
 📄 **WPE & TME: A Geometric Calculus for Structural and Temporal Reasoning**
 
-**Abstract:** We present WPE (Whole-Process Encoding) and TME (Temporal-Mode Encoding), two complementary languages for encoding structural and temporal semantics explicitly. Both use 4-parameter geometric representations where coupling strengths emerge from phase relationships via cosine rules, hierarchical influences follow from shell levels, and temporal ordering is syntactic. The languages are text-native (pure ASCII), model-agnostic (no fine-tuning required), and compositional (complex systems from simple primitives). We demonstrate applications to LLM scaffolding, multi-agent systems, temporal logic, and system modeling.
+**Abstract:** This paper presents the Wave Pattern Encoding (WPE) and Temporal Modulation Encoding (TME) semantic calculus, a novel geometric framework designed to provide explicit structural and temporal representations for artificial intelligence reasoning systems. Current large language models demonstrate remarkable pattern recognition capabilities but lack explicit mechanisms for maintaining consistent internal structure across extended reasoning chains and representing temporal relationships. The framework addresses this limitation through a text-based geometric calculus where components occupy positions in phase space, coupling strengths emerge from angular separation via cosine relationships, and temporal ordering becomes syntactically explicit. This paper provides rigorous mathematical foundations , derives the coupling and hierarchical influence mechanisms, demonstrates validation criteria, and presents applications across multiple domains. The framework requires no model fine-tuning and operates through prompting alone, making it immediately applicable to existing AI systems.
 
 **[Read on ResearchGate →](https://doi.org/10.13140/RG.2.2.28299.55844)**  
 **[Download PDF →](https://github.com/Heimdall-Organization/wpe-tme-language/blob/main/WPE_TME_Semantic_Calculus__A_Geometric_Framework_for_Structural_and_Temporal_Reasoning_in_AI_Systems%20(1).pdf)**
 
 ---
 
-## Citation
-
-```bibtex
-@article{yourname2025wpe,
-  title={WPE \& TME: A Geometric Calculus for Structural and Temporal Reasoning},
-  author={Your Name},
-  year={2025},
-  journal={arXiv preprint arXiv:[id]},
-  url={https://github.com/[user]/wpe-tme-language},
-  note={Programming language specification with Python reference implementation}
-}
-```
-
----
 
 ## Contributing
 

